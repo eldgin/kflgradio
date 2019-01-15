@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "KFLG Radio",
+    "description": "",
+    "home_page_url": "https://eldgin.github.io/kflgradio",
+    "feed_url": "https://eldgin.github.io/kflgradio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Eldgin Brown"
+    },
+    "items": [
+    ]
+}
